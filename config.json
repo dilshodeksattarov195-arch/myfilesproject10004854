@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentfonnect",
+        "uuid": 25337880,
+        "checksum": "mj7weix"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
